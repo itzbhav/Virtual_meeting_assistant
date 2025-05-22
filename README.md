@@ -28,3 +28,5 @@ Document Handling: Meeting transcripts are loaded as PDFs, split into chunks, an
 
 
 Retrieval-Augmented Generation (RAG): This model retrieves the most relevant segments from past transcripts and uses a generative model to formulate accurate, context-sensitive responses.
+
+![Screenshot 2025-05-22 174431](https://github.com/user-attachments/assets/197e3ea8-39e1-47c0-85f9-07928eb2324f)
